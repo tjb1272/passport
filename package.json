@@ -1,0 +1,30 @@
+{
+  "name": "sqldata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "connect-flash": "^0.1.1",
+    "cookieparser": "^0.1.0",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "express-sessions": "^1.0.6",
+    "express-validator": "^5.0.0",
+    "flash": "^1.1.0",
+    "handlebars": "^4.0.11",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "sequelize": "^4.33.2",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "description": ""
+}
